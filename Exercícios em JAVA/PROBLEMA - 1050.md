@@ -1,5 +1,7 @@
 Leia um número inteiro que representa um código de DDD para discagem interurbana. Em seguida, informe à qual cidade o DDD pertence, considerando a tabela abaixo:
 
+![image](https://user-images.githubusercontent.com/67755952/172598083-f6f2b226-5d60-49f4-b0f4-b730974dbde2.png)
+
 Se a entrada for qualquer outro DDD que não esteja presente na tabela acima, o programa deverá informar:
 DDD nao cadastrado
 
