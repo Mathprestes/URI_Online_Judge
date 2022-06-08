@@ -1,4 +1,4 @@
-PROBLEMA - 1048 - Aumento de Salário
+# PROBLEMA - 1048 - Aumento de Salário
 
 A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
 
@@ -6,12 +6,15 @@ A empresa ABC resolveu conceder um aumento de salários a seus funcionários de 
 
 Leia o salário do funcionário e calcule e mostre o novo salário, bem como o valor de reajuste ganho e o índice reajustado, em percentual.
 
-Entrada
+### Entrada
 A entrada contém apenas um valor de ponto flutuante, com duas casas decimais.
 
-Saída
+### Saída
 Imprima 3 linhas na saída: o novo salário, o valor ganho de reajuste e o percentual de reajuste ganho, conforme exemplo abaixo.
 
+-------------------------------------------------------------------------------------------------------------------
+
+```
 import java.util.Scanner;
 
 public class Main {
@@ -75,3 +78,4 @@ public class Main {
         sc.close();
 		}
     }
+```
